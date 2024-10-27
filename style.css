@@ -63,6 +63,22 @@ body {
   margin: 60px;
 }
 
+.sign {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.sign h1 {
+  margin-right: 10px;
+}
+
+.sign h2 {
+  margin-bottom: 50px;
+}
+
 .wrapper form {
   width: 100%;
 }
