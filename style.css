@@ -134,6 +134,7 @@ body {
 
 .btn {
   padding: 10px 20px;
+  margin: 0 5px;
   font-size: 1em;
   background-color: var(--black);
   color: var(--white);
